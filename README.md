@@ -3,8 +3,7 @@
 Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
 
 # Resumo do projeto (o que é o SocialConnect):
-    O SocialConnect é uma empresa do setor automotivo que busca fabricar carros elétricos de alta performance. No site é possivel encontrar sobre a empresa, meios de contato e sobre a equipe detalhando as capacidades e qualidades dos colaboradores.
-
+    A Social Connect é uma empresa de fast food que busca oferecer refeições rápidas, saborosas e de qualidade. Focada na praticidade, a empresa permite que cada cliente tenha uma experiência personalizada, com opções que atendem diferentes gostos. Com uma equipe qualificada e um atendimento ágil, a Social Connect se destaca por unir rapidez, eficiência e bom atendimento.
 # Tecnologias utilizadas:
 * Visual Studio Code (VS Code)
 * Firebase Studio;
